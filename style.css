@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-image: linear-gradient(to top right, red, grey);
+    background-image: linear-gradient(to top right, black,red, grey);
 }
 #wrapper{
     height: 100vh;
